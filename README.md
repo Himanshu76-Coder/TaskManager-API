@@ -374,7 +374,7 @@ Make sure you have the following installed:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/TaskManager-API.git
+git clone https://github.com/Himanshu76-Coder/TaskManager-API.git
 cd TaskManager-API
 ```
 
@@ -545,6 +545,6 @@ This project was built to practice and demonstrate the following backend skills:
 
 ## Author
 
-**Your Name**
-- This is a beginner-level learning project built to practice Java backend development with Spring Boot
-- GitHub: [github.com/your-username](https://github.com/your-username)
+**Himanshu Kumavat**
+- This is a beginner-level project built to practice Java backend development with Spring Boot
+- GitHub: https://github.com/Himanshu76-Coder
